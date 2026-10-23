@@ -1,0 +1,27 @@
+{
+  "project_name": "薪跳",
+  "repository": "x2781954452/web-project_small-Created-by-XZJ",
+  "project_directory": "xintiao",
+  "site_directory": "xintiao/dist",
+  "github_sync_policy": "Sync requested project changes after validation; Cloudflare release requires separate explicit user confirmation.",
+  "cloudflare": {
+    "provider": "pages",
+    "project_name": "shixin-time",
+    "url": "https://shixin-time.pages.dev/",
+    "method": "direct-upload"
+  },
+  "last_deployment": {
+    "date": "2026-10-23",
+    "source": "Local files uploaded before this GitHub archive",
+    "source_sha256": {
+      "app.js": "f73ef89e8722a285683ac6de5823f94433b3f2ed232d433cc31e0466999f6042",
+      "index.html": "74ab8d0dd18f602dcfc37537edd16d54a8af6cef33e35044783967815fe94a8e",
+      "style.css": "1b04304f0d40080158cd2176f39fbd67524cb4420189ef53cbe54b0c447d2704"
+    },
+    "verification": "Previously verified in Edge InPrivate: anonymous access, live accumulation, pause."
+  },
+  "archive_operation": {
+    "deployed": false,
+    "cloudflare_configuration_changed": false
+  }
+}
