@@ -23,5 +23,21 @@
   "archive_operation": {
     "deployed": false,
     "cloudflare_configuration_changed": false
+  },
+  "pending_release": {
+    "updated_on": "2026-10-24",
+    "status": "awaiting-user-approval",
+    "source_sha256": {
+      "app.js": "76454ece0d5e06bb2949b0867fdd94a643684aeda7d637744a24baccd369de7e",
+      "index.html": "e483d1772a9fac8476efe768e1b1f85c1457011cdfd607ce2c05a8d4828c06d4",
+      "style.css": "3db061be7f837c0409ebe11ea082844bb096bf2e6229b08d01251e018e6dcc92"
+    },
+    "summary": "Simplify tracker time display, add no-save exit, show result time span, and restart immediately.",
+    "verification": [
+      "Session-flow regression checks passed",
+      "Desktop and 390px mobile browser checked",
+      "No browser console errors observed"
+    ],
+    "cloudflare_updated": false
   }
 }
